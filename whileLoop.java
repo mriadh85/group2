@@ -8,5 +8,7 @@ public class whileLoop {
             System.out.print(a[i]+"\n");
             i++;
         } while(i<a.length);
+
+        System.out.println("this is rifat");
     }
 }
