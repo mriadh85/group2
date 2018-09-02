@@ -32,6 +32,7 @@ public class Test{
         String st1 = "MONDAY";
         String st2 = "TUESDAY";
         String st3 = "FRI";
+        System.out.println("rrrrrr");
 
 
         Test t1 = new Test(Day.valueOf("MONDAY"));
