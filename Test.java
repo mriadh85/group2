@@ -40,6 +40,7 @@ public class Test{
 //        t2.dayIsLike();
 //        Test t3 = new Test(Day.valueOf(st3));
 //        t3.dayIsLike();
+        System.out.println("today is sunday!");
     }
 
 
