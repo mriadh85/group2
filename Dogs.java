@@ -18,6 +18,8 @@ class Test{
     public static void main(String[] args) {
         Dogs d1 = new Dogs();
         Dogs.Breed b1 = d1.new Breed();
+        Dogs.Breed b2 = d1.new Breed();
         b1.display();
+        b2.display();
     }
 }
