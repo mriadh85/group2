@@ -21,5 +21,7 @@ class Test{
         Dogs.Breed b2 = d1.new Breed();
         b1.display();
         b2.display();
+        Dogs.Breed b3 = d1.new Breed();
+        b3.display();
     }
 }
