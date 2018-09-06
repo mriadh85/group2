@@ -10,7 +10,7 @@ public class useOfMethods {
         System.out.println(s.codePointAt(3));
         System.out.println(s.codePointBefore(3));
         System.out.println(s.compareTo(s1));
-        
+
 
 
     }
