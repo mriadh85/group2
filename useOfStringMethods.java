@@ -8,6 +8,10 @@ public class useOfStringMethods {
         int len = s1.length();
         System.out.println("length of s1 string is : "+ len);
 
+        //contanating stings
+
+        System.out.println(s1+s1);
+
 
     }
 }
