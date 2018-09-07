@@ -11,6 +11,8 @@ public class useOfMethods {
         System.out.println(s.codePointBefore(3));
         System.out.println(s.compareTo(s1));
 
+        System.out.println(s.upperCase());
+
 
 
     }
