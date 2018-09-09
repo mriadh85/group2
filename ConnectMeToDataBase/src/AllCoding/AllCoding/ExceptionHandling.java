@@ -1,4 +1,4 @@
-package HandleException;
+package src.AllCoding.AllCoding;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

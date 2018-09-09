@@ -1,4 +1,4 @@
-package ds;
+package src.AllCoding.AllCoding;
 
 import java.util.Iterator;
 import java.util.LinkedList;

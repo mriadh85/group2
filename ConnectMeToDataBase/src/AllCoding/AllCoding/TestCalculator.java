@@ -1,9 +1,6 @@
-package ClaPrac090218;
+package src.AllCoding.AllCoding;
 
 import org.testng.Assert;
-import org.testng.asserts.Assertion;
-
-import java.util.Calendar;
 
 public class TestCalculator {
     public static void main(String[] args) {
@@ -11,7 +8,7 @@ public class TestCalculator {
         int result = cal.addition(25, 20);
         Assert.assertEquals(45,result);
         int result2 = cal.subtraction(89, 34);
-        Assert.assertEquals(55,result2);
+        Assert.assertEquals(55,result2);//
 
     }
 }

@@ -1,4 +1,4 @@
-package Practice090218;
+package src.AllCoding.AllCoding;
 
 public class SplitString {
 

@@ -1,4 +1,4 @@
-package ClassPractice1;
+package src.AllCoding.AllCoding;
 
 public class FibonacciNumbers {
     /*static int fib(int n){

@@ -1,6 +1,4 @@
-enum Day {
-    MONDAY,TUESDAY,WEDNESDAY,FRI;
-}
+package src.AllCoding.AllCoding;
 
 public class Test{
     Day dy;
@@ -35,7 +33,7 @@ public class Test{
         System.out.println("rrrrrr");
 
 
-        Test t1 = new Test(Day.valueOf("MONDAY"));
+        src.Test t1 = new src.Test(Day.valueOf("MONDAY"));
         t1.dayIsLike();
 //        Test t2 = new Test(Day.valueOf(st2));
 //        t2.dayIsLike();
@@ -45,4 +43,18 @@ public class Test{
     }
 
 
+    public static class Dogs {                         //outer class
+        private int age = 5;
+        public String color = "Brown";//holy
+        private int hieghtInInch = 25;
+
+        class Breed{                            //inner class
+            private String breed1 = "Boxer";
+            public void display(){
+                //Accessing variables form outer class
+                System.out.println("Dog Breed:"+breed1+"\n"+"Age:"+age+"\n"+"Color:"+
+                        color+"\n"+"Height:"+hieghtInInch);
+            }
+        }
+    }
 }

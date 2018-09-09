@@ -1,3 +1,5 @@
+package src.AllCoding.AllCoding;
+
 public class MyArray {
     public static void main(String[] args) {
         double[] myList = {6.7, 3.9, 4.8, 5.2};

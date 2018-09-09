@@ -1,4 +1,4 @@
-package homeWork_4;
+package src.AllCoding.AllCoding;
 
 public class MainM {
 

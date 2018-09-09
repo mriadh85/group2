@@ -1,5 +1,4 @@
-package Practice081918;
-
+package src.AllCoding.AllCoding;
 //demonstration accessing of a static nested class
 
 //outer class

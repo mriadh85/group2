@@ -1,3 +1,5 @@
+package src.AllCoding.AllCoding;
+
 public class AnotherTest {
     enum color{
         RED, WHITE, BLUE

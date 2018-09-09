@@ -1,4 +1,4 @@
-package loops;
+package src.AllCoding.AllCoding;
 
 public class whileLoop {
     public static void main(String[] args) {
@@ -10,7 +10,7 @@ public class whileLoop {
         } while(i<a.length);
 
         System.out.println("this is rifat");
-        System.out.println("hi, this is abby")
-        System.out.println("good evening guys")
+        System.out.println("hi, this is abby");
+        System.out.println("good evening guys");
     }
 }

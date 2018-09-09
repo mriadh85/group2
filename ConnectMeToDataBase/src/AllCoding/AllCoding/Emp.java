@@ -1,4 +1,4 @@
-package Practice;
+package src.AllCoding.AllCoding;
 
 public class Emp {
     ////data or value changes in all objects by changing in one place or data

@@ -1,4 +1,4 @@
-package stringmethod;
+package src.AllCoding.AllCoding;
 
 public class useOfStringMethods {
     public static void main(String[] args) {

@@ -47,7 +47,7 @@ import java.util.Properties;
                         "values(109, 'Md. hh', '10-10-2000')";
                 statement.executeLargeUpdate(add);
                 System.out.println("Insertion complete");
-
+                System.out.println("my cloned classes cannot work");
             }catch (Exception ex){
                 ex.printStackTrace();
             }

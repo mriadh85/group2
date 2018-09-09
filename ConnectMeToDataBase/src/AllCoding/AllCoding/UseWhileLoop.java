@@ -1,4 +1,4 @@
-package Loop;
+package src.AllCoding.AllCoding;
 
 public class UseWhileLoop {
     public static void main(String[] args) {
