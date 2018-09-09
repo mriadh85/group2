@@ -1,4 +1,4 @@
-package ConnectToMongo;
+package src.ConnectToMongo;
 
 public class User {
 

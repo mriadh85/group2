@@ -1,4 +1,4 @@
-package ConnectToMongo;
+package src.ConnectToMongo;
 
 import com.mongodb.BasicDBObject;
 import com.mongodb.MongoClient;

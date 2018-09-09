@@ -1,4 +1,4 @@
-package ConnectToMySQL;
+package src.ConnectToMySQL;
 
 import java.io.FileInputStream;
 import java.io.IOException;
