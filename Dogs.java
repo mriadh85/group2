@@ -2,7 +2,7 @@ package nested;
 
 public class Dogs {                         //outer class
     private int age = 5;
-    public String color = "Brown";
+    public String color = "Brown";//holy
     private int hieghtInInch = 25;
 
     class Breed{                            //inner class
