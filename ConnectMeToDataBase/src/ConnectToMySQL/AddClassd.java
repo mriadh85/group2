@@ -48,6 +48,7 @@ import java.util.Properties;
                 statement.executeLargeUpdate(add);
                 System.out.println("Insertion complete");
                 System.out.println("my cloned classes cannot work");
+                System.out.println("it works now...");
             }catch (Exception ex){
                 ex.printStackTrace();
             }
